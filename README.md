@@ -1,6 +1,6 @@
 # Spelling Docker Image
 
-This docker image can be used for in CI for ensuring good spelling practices.
+This docker image can be used in CI to ensure good spelling.
 
 ## Usage
 
